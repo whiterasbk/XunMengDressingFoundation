@@ -1,6 +1,6 @@
 # XunMengDressingFoundation(寻梦女装基金会开源项目)
 
- 简体中文| [繁體中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh-Han.md) | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) 
+ 简体中文 | [繁體中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh-Han.md) | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) 
 
 定理 1: 
 > 女装只有零次和无数次
@@ -38,7 +38,7 @@
 > 
 > ---------------- 查特 · 吉皮屉
 
-这会带来什么问题? 对, 女装也是需要钱买的, 但因为 `定理 1` 的存在, 会导致蓝孩纸对女装不可自拔, 这太可怜了!
+这会带来什么问题? 对, 女装也是需要钱买的, 但因为 `定理 1` 的存在, 会导致蓝孩纸对女装沉迷不可自拔, 这太可怜了!
 
 这个项目的 目的就是筹集互联网的力量, 帮助这些可怜的蓝孩纸
 
