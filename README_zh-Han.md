@@ -1,6 +1,6 @@
 # XunMengDressingFoundation(尋夢女裝基金會開源項目)
 
- 簡體中文 | 繁體中文 | English | 日本語 |
+ [简体中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README.md) | 繁體中文 | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) 
 
 定理 1: 
 > 女裝只有零次和無數次
