@@ -2,8 +2,8 @@
 
  [简体中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh.md) | [繁體中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh-Han.md) | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) | Рускии 
 
-定理 1: 
-> 女装只有零次和无数次
+Теорема 1: 
+> 《Мальчик может носить одежду девочки либо ноли раз, либо бесконечное число раз》
 > 
 > 穿蓝白胖次的感觉真的很棒诶！
 > 
