@@ -58,7 +58,7 @@
 
 ## 也看看
 
-[源repo遗迹](https://github.com/komeiji-satori/Dress)
+[Происхождение этого проекта Repo](https://github.com/komeiji-satori/Dress)
 
 [archive-dress-master](https://archive.org/details/dress-master.-7z)
 
@@ -66,9 +66,22 @@
 
 ## 吟诗作对
 
-```dressing-up-language
-  寻常仙子侣
-  梦拥白云边
-  女曲琵琶里
-  装成锦绣前
-```
+> (На русском языке:)  
+>
+> Белые облака мечты лелеют
+> 
+> Мелодии циня звучат в ушах
+> 
+> Наряд вышитый сияет перед глазами.
+>
+> (Это стихотворение было переведено с помощью GigaChat.)
+>
+> (Оригинал：)
+> 
+> 寻常仙子侣
+>
+> 梦拥白云边
+>
+> 女曲琵琶里
+>
+> 装成锦绣前
