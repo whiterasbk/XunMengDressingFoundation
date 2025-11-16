@@ -62,7 +62,7 @@
 
 [archive-dress-master](https://archive.org/details/dress-master.-7z)
 
-[Misaka-0x447f/Dress](https://github.com/Misaka-0x447f/Dress)
+[Misaka-0x447f/Dress(Китайская веб-страница GitHub)](https://github.com/Misaka-0x447f/Dress)
 
 ## 吟诗作对（Сочинение стихов）
 
