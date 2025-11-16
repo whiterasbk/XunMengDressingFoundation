@@ -93,6 +93,6 @@
 A message by translator    Сообщение переводчика  :
 
 
-> Translated by Eric using Gigachat. Some parts of the article may not be accurate. Corrections are welcome. :)
+> Translated by Eric and some parts of the article translated using Gigachat. Some parts of the article may not be accurate. Corrections are welcome. :)
 > 
 > Перевод Эрика с помощью Gigachat, некоторые части статьи могут быть неверными. Исправления приветствуются:)
