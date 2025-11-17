@@ -1,6 +1,6 @@
 # XunMengDressingFoundation(寻梦女装基金会开源项目)
 
- [简体中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh.md) | [繁體中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh-Han.md) | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) | Рускии 
+ [简体中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README.md) | [繁體中文](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_zh-Han.md) | [English](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_en-us.md) | [日本語](https://github.com/whiterasbk/XunMengDressingFoundation/blob/master/README_ja.md) | Рускии 
 
 Теорема 1: 
 > 《Мальчик может носить одежду девочки либо ноли раз, либо бесконечное число раз》
